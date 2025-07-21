@@ -7,4 +7,5 @@ public class UserDTO {
     private Long Id;
     private String name;
     private String email;
+    private String birth_date;
 }
