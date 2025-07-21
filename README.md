@@ -30,7 +30,7 @@ Instalación
 Sigue estos pasos para configurar y ejecutar el proyecto:
 
 Clonar el repositorio:
-git clone https://github.com/tu_usuario/user-crud.git
+git clone https://github.com/TeoFernandez/users-SB-JAVA.git
 cd user-crud
 
 
