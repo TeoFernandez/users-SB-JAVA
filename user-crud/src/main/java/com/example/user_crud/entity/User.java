@@ -17,7 +17,4 @@ public class User {
     @Column(nullable = false)
     private String email;
 
-    @Column(nullable = false)
-    private String birth_date;
-
 }
