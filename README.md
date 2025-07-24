@@ -1,5 +1,6 @@
 ﻿# users-SB-JAVA
 User CRUD API
+
 Descripción
 Esta es una API RESTful desarrollada con Spring Boot que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre una entidad User almacenada en una base de datos MySQL. La API utiliza el patrón DTO (Data Transfer Object) para separar la lógica de negocio de la representación de datos, siguiendo las mejores prácticas de desarrollo.
 La entidad User tiene los siguientes campos:
