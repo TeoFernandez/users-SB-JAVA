@@ -48,8 +48,6 @@ spring.jpa.show-sql=true
 spring.jpa.open-in-view=false
 
 
-
-
 Compilar y ejecutar la aplicación:
 
 Desde la terminal, en la raíz del proyecto, ejecuta:mvn spring-boot:run
